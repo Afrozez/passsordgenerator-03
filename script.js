@@ -4,8 +4,7 @@ var userChoice = window.prompt('Would you like to include special characters?').
 var generateBtn = document.querySelector("#generate");
 
 
-console.log(userChoice);
-console.log(lengthChoice);
+
 
 
 function generatePassword() {
@@ -34,3 +33,12 @@ function writePassword() {
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
+
+
+if (userChoice === 'YES') {
+    console.log("yessss");
+} else if (userChoice === 'NO'){
+  console.log('noooooo')
+}else {
+  console.log('invalid entry')
+}
