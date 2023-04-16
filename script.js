@@ -18,12 +18,17 @@ generateBtn.addEventListener("click", writePassword);
 
 function generatePassword() {
   // This defines the possible characters to use in the password
-  var chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+  var chars = "abcdefghijklmnopqrstuvwxyz";
   var passwordLength;
   do {
     passwordLength = parseInt(prompt("How long would you like your password to be (8-128)?"));
   } while (isNaN(passwordLength) || passwordLength < 8 || passwordLength > 128);
 
+  var includeUppercase  = confirm("Would you like to include uppercase letters?");
+
+  if (includeUppercase) {
+    chars += "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+  }
 
 
   var includeNumbers = confirm("Would you like to include numbers in your password?");
@@ -32,11 +37,13 @@ function generatePassword() {
     chars += "0123456789";
   }
 
-  var includeSpecials  = confirm("Would you like to include $pecail characters in your password?");
+  var includeSpecials  = confirm("Would you like to include $pecial characters in your password?");
 
   if (includeSpecials) {
     chars += "!@#$%^&*()_+~`|}{[]\:;?><,./-=";
   }
+
+
 
 
   var password = ""; // This is what the password will be once the for loop is done
