@@ -26,6 +26,18 @@ function generatePassword() {
 
 
 
+  var includeNumbers = confirm("Would you like to include numbers in your password?");
+
+  if (includeNumbers) {
+    chars += "0123456789";
+  }
+
+  var includeSpecials  = confirm("Would you like to include $pecail characters in your password?");
+
+  if (includeSpecials) {
+    chars += "!@#$%^&*()_+~`|}{[]\:;?><,./-=";
+  }
+
 
   var password = ""; // This is what the password will be once the for loop is done
   
