@@ -5,11 +5,12 @@ This (https://afrozez.github.io/passwordgenerator-03/) project displays informat
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running: N/A
 
 Usage
-This (https://afrozez.github.io/passwordgenerator-03/) project can later be looked at to gain a better basic understanding of HTML and CSS. This module will also be added to a github to display my experience to future visitors to my github page.
+This (https://afrozez.github.io/passwordgenerator-03/) project shows how JavaScript can be used to add interactivity to the page using functions to perform tasks for us. This module will also be added to a github to display my experience to future visitors to my github page.
 
 If any users have any questions about how to start the project they can reach me at lukeadenhartog@gmail.com.
+
 Credits
-The HTML and CSS file were already provided from UCI Coding Bootcamp resources. The JavaScript was written by Luke A DenHartog.
+The HTML and CSS file were already provided from UCI Coding Bootcamp resources. The JavaScript was sourced from/by Luke A DenHartog.
 
 License
 N/A
