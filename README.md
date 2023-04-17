@@ -1,5 +1,6 @@
 # passwordgenerator-03
 
+![Site screnshot](./assets/passwordgenscreenshot.jpg)
 This project provided some hands on practice with JavaScript Back-End engineering by adjusting some pre written code to fit the Acceptance Criteria
 This (https://afrozez.github.io/passwordgenerator-03/) project displays information on multiple topics including search engine optimization, online reputation management, and socail media marketing. It also provide some textual information about brand awareness and cost management. 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running: N/A
