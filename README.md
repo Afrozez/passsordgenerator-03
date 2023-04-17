@@ -7,8 +7,10 @@ Link to deployed application: https://afrozez.github.io/my-portfolio/
 
 ## In order to achieve a successful random password generator I had to refactor my JavaScript code multiple times.This project provided some hands on practice with JavaScript engineering by adding some functionality to the button.
 
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running: It is recommended to have to latest version of Google Chrome which can be found here: https://www.google.com/chrome/.
+    If anyone would like to work on/add to this project it is recommended to first follow these steps:
+- Download Visual Studio Code: https://code.visualstudio.com/
+- Pull the files frop my GitHub Profile Repository: https://github.com/Afrozez/passwordgenerator-03
+- It is recommended to have to latest version of Google Chrome which can be found here: https://www.google.com/chrome/.
 
 
 ## Usage
