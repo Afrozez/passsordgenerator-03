@@ -2,7 +2,7 @@
 
 ![Site screnshot](./assets/passwordgenscreenshot.jpg)
 
-Link to deployed application: https://afrozez.github.io/my-portfolio/
+Link to deployed application: [https://afrozez.github.io/my-portfolio/](https://afrozez.github.io/passwordgenerator-03/)
 
 
 ## In order to achieve a successful random password generator I had to refactor my JavaScript code multiple times.This project provided some hands on practice with JavaScript engineering by adding some functionality to the button.
