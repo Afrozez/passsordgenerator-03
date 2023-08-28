@@ -2,30 +2,31 @@
 
 ![Site screnshot](./assets/passwordgenscreenshot.jpg)
 
-Link to deployed application: [https://afrozez.github.io/my-portfolio/](https://afrozez.github.io/passwordgenerator-03/)
+Link to deployed application: (https://afrozez.github.io/passwordgenerator-03/)
 
+## In order to achieve a successful random password generator I had to refactor my JavaScript code multiple times.This project provided some hands on practice with JavaScript engineering by adding some functionality to the button
 
-## In order to achieve a successful random password generator I had to refactor my JavaScript code multiple times.This project provided some hands on practice with JavaScript engineering by adding some functionality to the button.
+If anyone would like to work on/add to this project it is recommended to first follow these steps:
 
-    If anyone would like to work on/add to this project it is recommended to first follow these steps:
-- Download Visual Studio Code: https://code.visualstudio.com/
-- Pull the files frop my GitHub Profile Repository: https://github.com/Afrozez/passwordgenerator-03
-- It is recommended to have to latest version of Google Chrome which can be found here: https://www.google.com/chrome/.
+- Download Visual Studio Code: <https://code.visualstudio.com/>
 
+- Pull the files frop my GitHub Profile Repository: <https://github.com/Afrozez/passwordgenerator-03>
+
+- It is recommended to have to latest version of Google Chrome which can be found here: <https://www.google.com/chrome/>.
 
 ## Usage
- This (https://afrozez.github.io/passwordgenerator-03/) project displays a web based program that asks the user what kind of characters they would like to include and creates a random password generated via JavaScript functions/loops. This module will also be added to a github to display my experience to future visitors to my github page.
 
-If any users have any questions about how to start the project they can reach me at lukeadenhartog@gmail.com.
+ This (<https://afrozez.github.io/passwordgenerator-03/>) project displays a web based program that asks the user what kind of characters they would like to include and creates a random password generated via JavaScript functions/loops. This module will also be added to a github to display my experience to future visitors to my github page.
 
+If any users have any questions about how to start the project they can reach me at <lukeadenhartog@gmail.com>.
 
 ## Credits
+
 The HTML and CSS file were already provided from UCI/edX Coding Bootcamp resources. The JavaScript was sourced from/by Luke A DenHartog.
 
-
 ## License
-N/A
 
+N/A
 
 ## Copyright (c) 2023 Luke
 
